@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/BS_Crouch.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/MM_Unarmed_Crouch_Walk_Fwd1.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/MM_Unarmed_Crouch_Idle.uasset"
+			]
+		}
+	]
+}
