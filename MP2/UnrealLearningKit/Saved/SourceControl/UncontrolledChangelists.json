@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UE Projects/cs415-sp24/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Turret.uasset",
 				"C:/Users/Aman/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/NewMap.umap",
 				"C:/Users/Aman/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/Aman/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/ui.uasset",

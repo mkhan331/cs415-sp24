@@ -10,7 +10,22 @@
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/BS_Crouch.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/MM_Unarmed_Crouch_Walk_Fwd1.uasset",
-				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/MM_Unarmed_Crouch_Idle.uasset"
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/MM_Unarmed_Crouch_Idle.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/PathPoint.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Enemy.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/PatrolPathEnding.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SA/764NFNHI79H46NDSCTBOQF.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/JL/M0P1FV64KU6T8UALM2LPKY.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4D/7N0ONSA6SZ5YZQMA421CAL.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/Y5/IR9WU50253ZWMOVPDL1LII.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CU/VZQVTCOZ760VYWWPY3A5Y3.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FB/ARQ8K2IPZAEOX0AN00MCUF.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9Y/HTX49TOPPNMVEXUQ5YPGIW.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EM/H5PB997Y3QAFQ1O36WIHWY.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Blackboard.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Behavior.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/FindPathPoint_Task.uasset",
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/ReachedPathPoint_Task.uasset"
 			]
 		}
 	]
