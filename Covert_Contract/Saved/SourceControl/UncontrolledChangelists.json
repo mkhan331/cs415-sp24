@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/cs415-sp24/cs415-sp24/Covert_Contract/Content/ProjectMapLevel.umap",
+				"D:/cs415-sp24/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Enemy.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
