@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/cs415-sp24/cs415-sp24/Covert_Contract/Content/ProjectMapLevel.umap",
-				"D:/cs415-sp24/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Enemy.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
@@ -27,7 +25,25 @@
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Blackboard.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Behavior.uasset",
 				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/FindPathPoint_Task.uasset",
-				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/ReachedPathPoint_Task.uasset"
+				"C:/UE Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/ReachedPathPoint_Task.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Behavior.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Enemy_AI.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Enemy.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/EnemyAI/NewAnimBlueprint.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/compact-assault-rifle/source/lambert1.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/compact-assault-rifle/source/LOD0_Gun.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/M4A1/source/Grid.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/M4A1/source/M4.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/M4A1/textures/Am5_low_Grid_BaseColor.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/M4A1/textures/Am5_low_Grid_Metallic.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/M4A1/textures/Am5_low_Grid_Normal.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/Characters/StormTrooper/M4A1/textures/Am5_low_Grid_Roughness.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/JL/M0P1FV64KU6T8UALM2LPKY.uasset",
+				"C:/Users/Aman/Documents/Unreal Projects/cs415-sp24/Covert_Contract/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset",
+				"D:/cs415-sp24/cs415-sp24/Covert_Contract/Content/ProjectMapLevel.umap",
+				"D:/cs415-sp24/cs415-sp24/Covert_Contract/Content/EnemyAI/Guard_Enemy.uasset"
 			]
 		}
 	]
